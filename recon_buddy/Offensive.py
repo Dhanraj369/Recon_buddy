@@ -54,7 +54,7 @@ def DossATK():
 
 def wifiDeauth():
 	
-	os.system("python3 Dos.py")
+	os.system("python3 /usr/share/recon_buddy/Dos.py")
 
 
 
