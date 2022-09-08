@@ -60,7 +60,7 @@ def getparameter():
 			if reply=="clear":
 				print(display_info)
 		if reply=="5":
-			os.system("less talk.txt")
+			os.system("less /usr/share/recon_buddy/talk.txt")
 		if reply=="1":
 			recon()
 		if reply=="2":
