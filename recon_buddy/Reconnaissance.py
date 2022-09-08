@@ -57,7 +57,7 @@ def recon():
 
 		if get_num=="back":
 
-			os.system("python3 startup.py") #startup file location
+			os.system("python3 /usr/share/startup.py") #startup file location
 			exit()
 
 		
