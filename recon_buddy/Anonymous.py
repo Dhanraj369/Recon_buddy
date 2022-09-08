@@ -134,7 +134,7 @@ def Anonymous():
 
 		if get_num=="back":
 
-			os.system("python3 startup.py") #startup file location
+			os.system("python3 /usr/share/recon_buddy/startup.py") #startup file location
 			exit()
 
 		
