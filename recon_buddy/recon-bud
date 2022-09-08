@@ -1,0 +1,12 @@
+#sabhu aarambha... ho
+#!/bin/sh
+
+# yaha thuknaa mana he... 
+# and dont copy my ninja tachnic ;-)
+
+
+set -e  #not gona tell you what this gona doo... may hack your sysatem  ;>)
+
+#hee... how is... you doing..... :-)
+
+exec python3 /usr/share/recon_buddy/startup.py "$@"
