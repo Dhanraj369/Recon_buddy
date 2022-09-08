@@ -70,7 +70,7 @@ def darkweb():
 
 	if ans=="y":
 
-		os.system("less tor.txt")
+		os.system("less /usr/share/recon_buddy/tor.txt")
 
 	if ans=="n":
 
