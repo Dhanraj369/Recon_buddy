@@ -33,8 +33,11 @@ display_info=f"""   =[ Reconn-buddy ]=
      [3] Scan and set
      [4] Anonymous
      [5] read note from cipar-root
+           
+	   enter crt + c if not exit under process
 
    [ Linux command can be used here : e.i ls,clear , exit]"""
+	
 
 def setup():
 
