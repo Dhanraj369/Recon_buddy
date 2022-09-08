@@ -64,7 +64,7 @@ def getparameter():
 		if reply=="1":
 			recon()
 		if reply=="2":
-			pass
+			offinseve()
 		if reply=="3":
 			scan()
 		if reply=="4":
