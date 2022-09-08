@@ -172,7 +172,7 @@ def setup():
 	print(display_info)
 
 
-def Anonymous():
+def offinseve():
 	
 	setup()
 
