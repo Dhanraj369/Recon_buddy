@@ -93,7 +93,7 @@ def Anonymous_brows():
 		except Exception as e:
 			raise
 		else:
-			os.system("bash rootcheck_for_firefox_proxy.sh")
+			os.system("bash /usr/share/recon_buddy/rootcheck_for_firefox_proxy.sh")
 
 	else:
 		print("invalid..........")
