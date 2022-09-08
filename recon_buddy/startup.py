@@ -53,7 +53,8 @@ def getparameter():
 └─# """)
 
 		if reply=="exit":
-			exit()			
+			exit()
+			os.system("exit")
 		#using and != for all options because reply==reply
 		elif reply==reply and reply != "exit" and reply != "1" and reply != "2" and reply != "3" and reply != "4" and reply != "5":
 			os.system(reply)
