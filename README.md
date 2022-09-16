@@ -1,6 +1,6 @@
 <h2>                                 hello there 👋,</h2>
 
-<p>  align="center"
+<p align="center" >
   ╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝╚═══╝
 
  
@@ -27,7 +27,7 @@
 
 </p>
 
-<p>  align="left" this tool have lotes of scope to be use ..
+<p align="left" >this tool have lotes of scope to be use ..
      it can perform attack and cam be defend your network 
      to be identify my victim machin
      there ar verity of attack it can perform..
