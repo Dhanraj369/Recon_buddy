@@ -29,25 +29,25 @@
     ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝      ╚═════╝  ╚═════╝ ╚═════╝ 
 ╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝╚══════╝
 
-   =[ Reconn-buddy ]= 
-   =[ Version: 1.0.2 ]= 
-   =[ Contributors: [ ['Cipar-root'] ]=
-   =[ this tool use for [A]ttack [H]ide and [S]can and [S]niff ]=
+   =[ Reconn-buddy ]= <br>
+   =[ Version: 1.0.2 ]= <br>
+   =[ Contributors: [ ['Cipar-root'] ]=<br>
+   =[ this tool use for [A]ttack [H]ide and [S]can and [S]niff ]=<br>
 
-   Enter number for choose :
+   Enter number for choose :<br>
      
-     [1] Reconnaissance 
-     [2] Offensive 
-     [3] Scan and set
-     [4] Anonymous
-     [5] read note from cipar-root
+     [1] Reconnaissance <br>
+     [2] Offensive <br>
+     [3] Scan and set<br>
+     [4] Anonymous<br>
+     [5] read note from cipar-root<br>
 
 </p>
 
-<p align="center" > =[ Reconnaissance  ]= 
+<p align="center" > =[ Reconnaissance  ]= <br>
 
  
-  Enter number for Dispaly :
+  Enter number for Dispaly :<br>
 
      [1]  List TCP/UDP Listen Server     [8]   Display timers tcp/udp and PID ,State
      [2]  Rout Table                     [9]   All Listen Shocket and PID 
