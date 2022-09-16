@@ -1,4 +1,4 @@
-<h2  align="left" >                                 hello there 👋,</h2> <br>
+<h2  align="left" >                                 hello there 👋, its is only for Debian based system </h2> <br>
 
 <h1  align="left"  > Installation process <br>
    
