@@ -49,13 +49,20 @@
  
   Enter number for Dispaly :
 
-     [1]  List TCP/UDP Listen Server     [8]   Display timers tcp/udp and PID ,State
-     [2]  Rout Table                     [9]   All Listen Shocket and PID 
-     [3]  Interfase Table                [10]  your IP  just everything about it 
-     [4]  Network statistics             [11]  IP/ INTERFASE Forwarding Status
-     [5]  Connected State Hardware       [12]  Discover All active system (MAC) AND (IP) (/16subnet)(LAN)
-     [6]  All online and offline CPU     [13]  Logical IDS
-     [7]  Statis file System info        [14]  which Service Start at Boot
+     [1]  List TCP/UDP Listen Server     
+     [2]  Rout Table                     
+     [3]  Interfase Table                
+     [4]  Network statistics             
+     [5]  Connected State Hardware 
+     [6]  All online and offline CPU     
+     [7]  Statis file System info       
+     [9]  All Listen Shocket and PID 
+     [10] your IP  just everything about it 
+     [11] IP/ INTERFASE Forwarding Status
+     [12] Discover All active system (MAC) AND (IP) (/16subnet)(LAN)
+     [13] Logical IDS
+     [14] which Service Start at Boot
+
 
        * for get back to main manu command : back *
 
