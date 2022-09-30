@@ -1,4 +1,4 @@
-<h2  align="left" >                                 hello there 👋, its is only for Debian based system </h2> <br>
+<h2  align="left" >                                 hello there 👋, it's only for Debian based system </h2> <br>
 
 <h1  align="left"  > Installation process <br>
    
@@ -6,7 +6,7 @@
    
    ls -l  [ to check "run_me_first.sh" file is excitable ] <br>
    
-   if not ren : chmod +x run_me_first.sh <br>
+   if not run : chmod +x run_me_first.sh <br>
       and to start installation <br>
    use root user only for install <br>
    root> ./run_me_first.sh  or bash run_me_first.sh <br>
