@@ -1,7 +1,7 @@
 #sambhu
 #!/usr/bin/env python
 # Recon-buddy
-# By Cipar-root 
+# By Cipher -Exploit
 # subscribe youtube channale >  https://www.youtube.com/channel/UCPGHkifv3-1i8j7pHThSHzg/featured
 # github > https://github.com/Dhanraj369?tab=repositories
 
@@ -23,7 +23,7 @@ logo="""
     ██║  ██║███████╗╚██████╗╚██████╔╝██║ ╚████║      ██████╔╝╚██████╔╝██████╔╝
     ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝      ╚═════╝  ╚═════╝ ╚═════╝ """
 
-Contributors=["Cipar-root"]
+Contributors=["Cipher-Exploit"]
 
 display_info=f"""   =[ Reconn-buddy ]= 
    =[ Version: 1.0.2 ]= 
