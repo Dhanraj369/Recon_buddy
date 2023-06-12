@@ -37,7 +37,7 @@
      [2] Offensive 
      [3] Scan and set
      [4] Anonymous
-     [5] read note from cipar-root
+     [5] read note from Cipher-Exploit
 
 </p>
 
